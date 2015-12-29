@@ -1,0 +1,14 @@
+Install dependecies with:
+  bower install
+
+Start a webserver in the directory:
+  python -m SimpleHTTPServer
+
+Open index.html in browser!
+You will be asked for the endpoint of the WPCP server:
+  e.g. ws://127.0.0.1:7681/
+
+You can append the WPCP server also after a hash in the url:
+  e.g. /path/to/index.html#ws://127.0.0.1:7681/
+
+Have FUN!!

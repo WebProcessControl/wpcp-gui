@@ -1,0 +1,23 @@
+{
+  "name": "wpcp-gui",
+  "version": "0.1.0",
+  "authors": [
+    "Patrick Gansterer <paroga@paroga.com>"
+  ],
+  "description": "UI for WPCP",
+  "keywords": [
+    "wpcp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "dijit": "~1.9.3",
+    "dgrid": "~0.3.14",
+    "dojo": "~1.9.3",
+    "put-selector": "~0.3.5",
+    "xstyle": "~0.2.1",
+    "wpcp": "~0.1.0"
+  }
+}
